@@ -188,9 +188,9 @@ const Index = () => {
       
       <footer className="py-4 border-t bg-white">
         <div className="container mx-auto px-4 text-center text-sm text-gray-500">
-          <p>JobScraperPro - A demo web scraping interface for job boards</p>
+          <p>JobScraperPro - web scraping interface for job boards</p>
           <p className="text-xs mt-1">
-            Note: This is a demonstration app. No actual web scraping is performed.
+            Note: This is a demo. Compliance with above sites for web scraping is Mandatory.
           </p>
         </div>
       </footer>
